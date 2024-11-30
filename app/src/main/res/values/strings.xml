@@ -19,4 +19,6 @@
     <string name="student_no_2022851038">STUDENT NO : 2022851038</string>
     <string name="group_rcdcs2515a">GROUP : RCDCS2515A</string>
     <string name="programme_code_cdcs251">PROGRAMME CODE : CDCS251</string>
+    <string name="copyright_2024_sofea_balqis_all_rights_reserved">Copyright © 2024 Sofea Balqis. All rights reserved.</string>
+    <string name="visit_github">Visit my GitHub page at %1$s</string>
 </resources>
