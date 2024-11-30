@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bill Estimator</string>
+    <string name="number_of_units_used_kwh">Number Of Units Used (kWh)</string>
+    <string name="electricity_bill_estimator">ELECTRICITY BILL ESTIMATOR</string>
+    <string name="_0_0">0.0</string>
+    <string name="final_charges">Final Charges</string>
+    <string name="rebate_percentage">Rebate Percentage (%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_charges_rm">Total Charges :</string>
+    <string name="rebate">Rebate :</string>
+    <string name="_00">0.0</string>
+    <string name="_0">0</string>
+    <string name="about">About</string>
+    <string name="error_units_invalid">Please enter valid units used.</string>
+    <string name="error_rebate_invalid">Rebate percentage must be between 0% and 5%.</string>
+    <string name="format_rm">RM %.2f</string>
+    <string name="about_student">ABOUT STUDENT</string>
+    <string name="name_sofea_balqis_binti_mohamad_ali">NAME : SOFEA BALQIS BINTI MOHAMAD ALI</string>
+    <string name="student_no_2022851038">STUDENT NO : 2022851038</string>
+    <string name="group_rcdcs2515a">GROUP : RCDCS2515A</string>
+    <string name="programme_code_cdcs251">PROGRAMME CODE : CDCS251</string>
+</resources>
